@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/requiresafe/demo#readme",
   "devDependencies": {
-    "requiresafe": "^1.3.0"
+    "grunt": "^0.4.5",
+    "grunt-requiresafe": "github:requiresafe/grunt-requiresafe"
   },
   "dependencies": {
     "marked": "0.3.3"
