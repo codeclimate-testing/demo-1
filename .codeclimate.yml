@@ -1,0 +1,4 @@
+---
+engines:
+  requiresafe:
+    enabled: true
