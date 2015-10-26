@@ -2,3 +2,6 @@
 engines:
   requiresafe:
     enabled: true
+ratings:
+  paths:
+  - npm-shrinkwrap.json
